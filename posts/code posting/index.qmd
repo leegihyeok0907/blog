@@ -1,0 +1,15 @@
+---
+title: "code test posting"
+author: "L G H"
+date: "2023-03-16"
+categories: [test]
+image: "code.png"
+---
+ctrl + shift + i
+
+위 키를 누르면 코드를 포스팅 하는 칸이 생성됩니다
+
+
+```{python}
+print("hello world!")
+```

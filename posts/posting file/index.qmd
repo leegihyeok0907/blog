@@ -1,0 +1,9 @@
+---
+title: "제목"
+author: "작성자"
+date: "날짜"
+categories: [test]
+image: "image.png"
+---
+
+포스팅 형식에 관련한 기본형식입니다

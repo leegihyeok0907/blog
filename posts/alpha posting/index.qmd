@@ -1,0 +1,11 @@
+---
+title: "alpha test posting"
+author: "L G H"
+date: "2023-03-16"
+categories: [test]
+image: "alpha.png"
+---
+
+이곳에 글을 쓰면 포스팅이 된다는 테스트
+
+마찬가지로 코드도 포스팅 할 수 있습니다

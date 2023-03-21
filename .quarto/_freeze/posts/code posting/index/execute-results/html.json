@@ -1,0 +1,11 @@
+{
+  "hash": "7fab1dd0718e62d3efe8890fa1951027",
+  "result": {
+    "markdown": "---\ntitle: \"code test posting\"\nauthor: \"L G H\"\ndate: \"2023-03-16\"\ncategories: [test]\nimage: \"code.png\"\n---\n\nctrl + shift + i\n\n위 키를 누르면 코드를 포스팅 하는 칸이 생성됩니다\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nprint(\"hello world!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nhello world!\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
