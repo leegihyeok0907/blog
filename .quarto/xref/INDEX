@@ -22,5 +22,14 @@
   },
   "posts/posting file/index.qmd": {
     "index.html": "d474de84"
+  },
+  "posts/2nd_week_HTML/index.qmd": {
+    "index.html": "25e6ab97"
+  },
+  "posts/2nd_week_HTML/2nd_week_tidyverse.qmd": {
+    "2nd_week_tidyverse.html": "e5976a9e"
+  },
+  "posts/numpy/numpy.ipynb": {
+    "numpy.html": "317dcfb7"
   }
 }

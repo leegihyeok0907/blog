@@ -1,8 +1,0 @@
----
-title: "2nd_week_tidyverse_package_HTML"
-author: "Lee Gi Hyeok"
-date: "2023-03-27"
-categories: [open_data_anlysis]
-image: "image.png"
----
-
