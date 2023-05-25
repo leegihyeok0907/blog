@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "data_blog",
     "section": "",
-    "text": "numpy\n\n\n\n\n\n\n\ndata_mining\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2023\n\n\nL G H\n\n\n\n\n\n\n  \n\n\n\n\nalpha test posting\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2023\n\n\nL G H\n\n\n\n\n\n\n  \n\n\n\n\ncode test posting\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2023\n\n\nL G H\n\n\n\n\n\n\n  \n\n\n\n\n제목\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\n작성자\n\n\n\n\n\n\nNo matching items"
+    "text": "numpy\n\n\n\n\n\n\n\ndata_mining\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2023\n\n\nL G H\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnumpy\n\n\n\n\n\n\n\ndata_mining\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2023\n\n\nL G H\n\n\n\n\n\n\n  \n\n\n\n\nalpha test posting\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2023\n\n\nL G H\n\n\n\n\n\n\n  \n\n\n\n\ncode test posting\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2023\n\n\nL G H\n\n\n\n\n\n\n  \n\n\n\n\n제목\n\n\n\n\n\n\n\ntest\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\n작성자\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/alpha posting/index.html",
@@ -390,5 +390,12 @@
     "title": "제목",
     "section": "",
     "text": "포스팅 형식에 관련한 기본형식입니다"
+  },
+  {
+    "objectID": "posts/numpy/index.html",
+    "href": "posts/numpy/index.html",
+    "title": "numpy",
+    "section": "",
+    "text": "colabnotebook으로 작성된 코드입니다"
   }
 ]

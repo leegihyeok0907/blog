@@ -31,5 +31,8 @@
   },
   "posts/numpy/numpy.ipynb": {
     "numpy.html": "317dcfb7"
+  },
+  "posts/numpy/index.qmd": {
+    "index.html": "a9a5d4c7"
   }
 }
