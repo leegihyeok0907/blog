@@ -1,0 +1,8 @@
+---
+title: "pandas"
+author: "L G H"
+date: "2023-05-30"
+categories: [data_mining]
+---
+
+colabnotebook으로 작성된 코드입니다
